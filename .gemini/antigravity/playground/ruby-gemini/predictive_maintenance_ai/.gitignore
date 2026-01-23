@@ -1,0 +1,13 @@
+# Data
+data/
+*.txt
+*.zip
+
+# Models
+*.h5
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
