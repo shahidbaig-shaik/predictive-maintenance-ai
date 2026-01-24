@@ -1,6 +1,8 @@
 # Data
 data/
 *.txt
+!requirements.txt
+!requirements.txt
 *.zip
 
 # Models
